@@ -1,0 +1,2 @@
+Testing file
+- Add a new folder by typing a name and then /, then enter the name of the new file in the folder
